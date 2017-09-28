@@ -1,0 +1,42 @@
+body{
+  font-family: Open Sans,sans-serif;
+  margin: 0px;
+  background-color: aliceblue;
+}
+#nav li{
+  display: inline-block;
+  padding:20px 20px;
+  border-right: 1px black;
+}
+.project{
+  width: 300px;
+  height: 300px;
+  margin: 15px;
+  text-align: center;
+  font-size: 17px;
+  font-weight: bold;
+  float: left;
+  background-color: white;
+}
+#project-wrapper{
+  margin-left: 300px;
+  padding: 30px;
+}
+
+#nav ul{
+  width: 100%;
+  background-color: cornflowerblue;
+  height: 50px;
+  text-align: center;
+  margin: 0;
+  border-radius: 5px;
+  }
+#nav a {
+  text-decoration: none;
+}
+img{
+  height:300px;
+  width: 300px;
+  margin: auto;
+  border-radius: 50px;
+}
